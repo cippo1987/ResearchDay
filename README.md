@@ -98,7 +98,34 @@ Correspondant: person responsabile for founding, integrity and legal issues.
 - Figure first
 - Use Projection, classic one: trenta, quarantacinque,...
 
+## Jarvist
+- Maslow http://web.cortland.edu/andersmd/MASLOW/HOMEPAGE.HTML
+- UNIX: hierarchical file system
+- old style folder, new style should be version control aka github
+- pushd and popd
+- NEVER USED cd ..
+- ls comands
+- sudo su user you become user without password
+- grep -C number of lines, -A after, -B before
+- find ./ -iname name
+- find ./ -mtime number
+- #! pipe this file to interpreter, even fortran
+- #!/bin/bash -x u can pass comands
+- -xv fast to debug
 
+# quote
+- ` used an option, not a variable. it excute the comand. and the result is used.
+- for COMAND_LINE_ARGUMENT
+- substitute. SHELL SUBSTITUTION
+- sed could use other caracthers instead of slash so s/ is equivalent to s#
+- awk
+- tmux, keeps terminal opens. useful
+ 
+# Keith
 
--
+## Macrodensity 
+
+- read cube files or 3d files.
+- Macrodensity, VASP does not print core levels properly with damped MD algorithm.
+- 
 
