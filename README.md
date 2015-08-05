@@ -90,3 +90,15 @@ Correspondant: person responsabile for founding, integrity and legal issues.
 - Major: extra point
 - Minor: language
 
+# JONATHAN: Python + MatplotLib
+
+# Chris 
+
+- Bad figures are objective
+- Figure first
+- Use Projection, classic one: trenta, quarantacinque,...
+
+
+
+-
+
