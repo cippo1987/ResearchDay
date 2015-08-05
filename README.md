@@ -10,7 +10,7 @@ ResearchDay Notes
 - MOF: electronactive and magnetic and ferroelectric materials
 - Aron one month a month in Yonsei. Dual professor.
 iTren now needs to record holidays for PostD, and bookLab for PhD.
-## Meetings:
+### Meetings:
 - Monday: updates on research in the group.
 - Tuesday: JC
 - Tue/Thu: subgroup meetings.
